@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gracehvac6.github.io/Grace-Mechanical/sitemap.xml
